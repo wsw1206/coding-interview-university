@@ -167,7 +167,7 @@
 
 - [ ] 面向学生 —— [Google 的职业生涯：技术开发指导](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 - [ ] Google 检索的原理：
-    - [ ] [Google 检索的发展史（视频）](https://www.youtube.com/watch?v=mTBShTwCnD4)
+    - [X] [Google 检索的发展史（视频）](https://www.youtube.com/watch?v=mTBShTwCnD4)
     - [ ] [Google 检索的原理 —— 故事篇](https://www.google.com/insidesearch/howsearchworks/thestory/)
     - [ ] [Google 检索的原理](https://www.google.com/insidesearch/howsearchworks/)
     - [ ] [Google 检索的原理 —— Matt Cutts（视频）](https://www.youtube.com/watch?v=BNHR6IQJGZs)
